@@ -1,0 +1,6 @@
+#+title: 🎄❄️ Advent of Code 2025
+
+This is my attempt at solving the Advent of Code of 2025 using Lisp (Guile Scheme)
+
+This project uses the Maak tool for automation: https://codeberg.org/jjba23/maak.
+See ~maak.scm~.
